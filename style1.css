@@ -1,0 +1,40 @@
+#cor {
+    color: blue;
+}
+#cor1 {
+    color: red;
+}
+#cor2 {
+    color: white;
+}
+
+.c1 {
+    background-color: red;
+}
+.c2 {
+    background-color: grey;
+}
+.c3 {
+    background-color: orange;
+}
+.c4 {
+    background-color: yellow;
+}
+.c5 {
+    background-color: violet;
+}
+.c6 {
+    background-color: gold;
+}
+.c7 {
+    background-color: black;
+}
+.c8 {
+    background-color: pink;
+}
+h1 {
+    text-align: right;
+}
+p {
+    text-align: right;
+}

@@ -1,0 +1,24 @@
+div {
+    width: 1500px;
+    height:100px;
+}
+#div {
+    background-color: red;
+    border: 5px solid;
+    color: green;
+}
+#div1 {
+    border: 1px solid;
+}
+#div2 {
+    background-color: violet;
+    border: 2px solid;
+}
+#div3 {
+    background-color: orange;
+    border: 5px solid;
+    color: red;
+}
+.para {
+    color: black;
+}
